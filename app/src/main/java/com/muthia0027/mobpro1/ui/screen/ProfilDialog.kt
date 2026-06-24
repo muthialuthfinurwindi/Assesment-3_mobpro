@@ -105,7 +105,7 @@ fun ProfilDialog(
 fun DialogPreview() {
     Mobpro1Theme {
         ProfilDialog(
-            user = User("Andre Milano", "andremilano16@gmail.com", ""),
+            user = User("Muthia Luthfi Nurwindi", "muthia@gmail.com", ""),
             onDismissRequest = {},
             onConfirmation = {}
         )
